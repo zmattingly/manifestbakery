@@ -7,3 +7,8 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+#splashContainer img {
+  height: auto;
+  max-width: 100%;
+}
